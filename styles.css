@@ -658,7 +658,7 @@ body {
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background: url("img/background.jpg") no-repeat center center fixed;
+  background: url("background.jpg") no-repeat center center fixed;
   background-size: cover;
   background-color: rgb(255, 255, 255); /* Transparent overlay (optional) */
   color: #fff; /* Text color to make it visible on a darker background */
